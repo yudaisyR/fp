@@ -1,0 +1,22 @@
+[
+    {"name": "arbol",
+   "description": "Existe gran cantidad de árboles que se destacan por su producción de flores.",
+   "image_url":"https://raw.githubusercontent.com/yudaisyR/fp/main/arbol.jpg"
+  }
+  {"name": "campo", 
+   "description": "Una flor silvestre es una flor que crece en estado salvaje.",
+   "image_url":"https://raw.githubusercontent.com/yudaisyR/fp/main/campo.jpg"
+  }
+  {"name": "florecita",
+   "description": "Existen flores unisexuales, pero ciertamente la gran mayoría cuenta con los órganos de ambos sexos.",
+   "image_url":"https://raw.githubusercontent.com/yudaisyR/fp/main/florecitas.jpg"
+  }
+  {"name": "ramo",
+   "description": "Antes de crear una ramo de flores debemos pensar dónde queremos ponerlo y cuál es su función.",
+   "image_url":"https://raw.githubusercontent.com/yudaisyR/fp/main/ramo.jpg"
+  }
+  {"name": "tulipan",
+   "description": "Tulipa es un género de plantas perennes y bulbosas perteneciente a la familia Liliaceae",
+   "image_url":"https://raw.githubusercontent.com/yudaisyR/fp/main/tulipan.jpg"
+  }
+]
